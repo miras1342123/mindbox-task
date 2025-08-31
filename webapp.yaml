@@ -114,4 +114,4 @@ metadata:
 spec:
   selector:
     matchLabels: { app: webapp }
-  minAvailable: 2     # при работах держим минимум 2 пода
+  minAvailable: 2
